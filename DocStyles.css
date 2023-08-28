@@ -1,1 +1,8 @@
-body
+body{
+    font-family: Candara;
+}
+h1{
+    background-color: #F54100;
+    text-align: center;
+    font-size: 45px;
+}
