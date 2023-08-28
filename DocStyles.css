@@ -1,5 +1,8 @@
 body{
     font-family: Candara;
+    background-color: #f4f4f4;
+    position: relative;
+    padding-bottom: 3em;
 }
 h1{
     background-color: #F54100;
@@ -11,6 +14,7 @@ h2{
 }
 h3{
     background-color: #FF820D;
+    border: black 2px solid;
 }
 h4{
     background-color: #DE2C0B;
@@ -24,4 +28,30 @@ aside{
     float: right;
     width: 20%;
     text-align: center;
+    border: black 2px solid;
+}
+table{
+    border-collapse: collapse;
+    border: black 2px solid;
+}
+caption{
+    font-size: 20;
+    text-align: center;
+    background-color: #FA910D;
+}
+th{
+    border: black 2px solid;
+    text-align: center;
+    background-color: #FA910D;
+}
+td{
+    border: black 2px solid;
+    padding: 5px;
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    padding: 1em;
+    width:99%;
+    padding-left: 0%;
 }
