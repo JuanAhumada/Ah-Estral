@@ -1,6 +1,6 @@
 body{
     font-family: Candara;
-    background-color: #f4f4f4;
+    background-color: #fae3cc;
     position: relative;
     padding-bottom: 3em;
 }
@@ -15,6 +15,8 @@ h2{
 h3{
     background-color: #FF820D;
     border: black 2px solid;
+    border-left: 0px;
+    border-right: 0px;
 }
 h4{
     background-color: #DE2C0B;
@@ -38,6 +40,8 @@ caption{
     font-size: 20;
     text-align: center;
     background-color: #FA910D;
+    border: black 2px solid;
+    border-bottom: 0px;
 }
 th{
     border: black 2px solid;
