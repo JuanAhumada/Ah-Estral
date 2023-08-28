@@ -6,3 +6,19 @@ h1{
     text-align: center;
     font-size: 45px;
 }
+h2{
+    background-color: #DE5A0B;
+}
+h3{
+    background-color: #FF820D;
+}
+article{
+    float: left;
+    text-align: justify;
+    width: 75%;
+}
+aside{
+    float: right;
+    width: 20%;
+    text-align: center;
+}
