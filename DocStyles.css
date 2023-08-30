@@ -2,7 +2,7 @@ body{
     font-family: Candara;
     background-color: #fae3cc;
     position: relative;
-    padding-bottom: 3em;
+    margin: 0;
 }
 h1{
     background-color: #F54100;
@@ -51,11 +51,4 @@ th{
 td{
     border: black 2px solid;
     padding: 5px;
-}
-footer{
-    position: absolute;
-    bottom: 0;
-    padding: 1em;
-    width:99%;
-    padding-left: 0%;
 }
